@@ -27,18 +27,6 @@
       </ul>
       <p><b>Tech Stack:</b> React · Flask · SQLite</p>
       <p><a href="https://github.com/asaadsaif34707-cmd/apec-passport-questts">🚀 View APEC Passport Quest on GitHub</a></p>
-            <h4>🏫 School ERP SaaS</h4>
-      <p>A school management platform designed to centralize school operations and administrative workflows.</p>
-      <ul>
-        <li>Student and employee management</li>
-        <li>School and class management</li>
-        <li>Attendance tracking</li>
-        <li>Fee management</li>
-        <li>JWT authentication</li>
-      </ul>
-      <p><b>Tech Stack:</b> Django · Django REST Framework · PostgreSQL</p>
-      <p><a href="https://github.com/A-A-org/School-ERP-SaaS">🚀 View School ERP SaaS on GitHub</a></p>
-
       <h3>🟢 Contact Me</h3>
       <p>💬 <b>WeChat ID:</b> <code>as3_d</code></p>
       <p>🐙 <a href="https://github.com/asaadsaif34707-cmd">GitHub Profile</a></p>
