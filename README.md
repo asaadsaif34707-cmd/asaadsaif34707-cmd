@@ -44,6 +44,7 @@
       <p><a href="https://github.com/A-A-org/School-ERP-SaaS">🚀 View School ERP SaaS on GitHub</a></p>
       <h3>🟢 Contact Me</h3>
       <p>💬 <b>WeChat ID:</b> <code>as3_d</code></p>
+      <p>📧 <a href="mailto:asaadsaif34707@gmail.com"><img src="https://img.shields.io/badge/Email-22C55E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a></p>
       <p>🐙 <a href="https://github.com/asaadsaif34707-cmd">GitHub Profile</a></p>
     </td>
     <td width="32%" align="center" valign="top">
