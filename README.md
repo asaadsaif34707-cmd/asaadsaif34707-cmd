@@ -58,6 +58,21 @@
   <img src="https://komarev.com/ghpvc/?username=asaadsaif34707-cmd&label=PROFILE+VIEWS&color=22C55E&style=for-the-badge" alt="Profile views counter"/>
 </div>
 
+<h3 align="center">📊 My GitHub Stats</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asaadsaif34707-cmd&show_icons=true&theme=dark&bg_color=000000&title_color=22C55E&icon_color=22C55E&text_color=FFFFFF&border_color=14532D&hide_border=false" height="170" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asaadsaif34707-cmd&layout=compact&theme=dark&bg_color=000000&title_color=22C55E&text_color=FFFFFF&border_color=14532D" height="170" alt="Top languages"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=asaadsaif34707-cmd&theme=dark&background=000000&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&border=14532D" alt="GitHub streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asaadsaif34707-cmd&bg_color=000000&color=22C55E&line=22C55E&point=FFFFFF&area=true&area_color=22C55E&hide_border=true" width="100%" alt="Contribution graph"/>
+</div>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,100:000000&height=100&section=footer" width="100%" alt="Black and green footer"/>
   <h3>💚 Keep Learning. Keep Building.</h3>
