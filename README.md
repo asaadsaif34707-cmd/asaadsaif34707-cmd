@@ -1,9 +1,6 @@
-# 🟢 Asaad Saif
-### Computer Science Student | Software Developer in Progress
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF88&height=180&section=header&text=ASAA%D0%94%20SAIF&fontSize=40&fontColor=00FF88&animation=fadeIn" width="100%" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:14532D,100:22C55E&height=190&section=header&text=ASAAD%20SAIF&fontSize=54&fontColor=FFFFFF&fontAlignY=50" width="100%" alt="Asaad Saif black and green banner"/>
+</div>
 
 <table>
 <tr>
