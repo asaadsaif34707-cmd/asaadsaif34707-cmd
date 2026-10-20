@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:14532D,100:22C55E&height=190&section=header&text=ASAAD%20SAIF&fontSize=54&fontColor=FFFFFF&fontAlignY=50" width="100%" alt="Asaad Saif black and green banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:14532D,100:22C55E&height=130&section=header" width="100%" alt="Black and green banner"/>
+  <a href="https://github.com/asaadsaif34707-cmd">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=5000&pause=1500&color=22C55E&center=true&vCenter=true&width=600&height=80&lines=ASAAD+SAIF" alt="Asaad Saif typing animation"/>
+  </a>
 </div>
 
 <table>
@@ -52,4 +55,11 @@
 </table>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,100:000000&height=100&section=footer" width="100%"
+  <img src="https://komarev.com/ghpvc/?username=asaadsaif34707-cmd&label=PROFILE+VIEWS&color=22C55E&style=for-the-badge" alt="Profile views counter"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,100:000000&height=100&section=footer" width="100%" alt="Black and green footer"/>
+  <h3>💚 Keep Learning. Keep Building.</h3>
+  <p><b>Thanks for viewing my profile! 🙏</b></p>
+</div>
